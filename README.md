@@ -16,7 +16,7 @@ Winning Hand: Poker Tool
 1. Create a directory that contains all of the project files.
 1. In command prompt, navigate to the project directory.
 1. Once inside the project directory, enter the command `expo start`. The developer tools will open in the default browser.
-1. Finally, run the application on the desired platform (Android, ios, web).
+1. Finally, run the application on the desired platform (Android, ios, web browser).
 
 ## Preview
 ![alt text](https://github.com/cam1529/wh/blob/main/preview.png)
