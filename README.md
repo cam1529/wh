@@ -3,7 +3,7 @@ Winning Hand: Poker Tool
 
 ## Table of Contents
 * [General Info](#general-info)
-* [Execution](#execution)
+* [Execution Info](#execution-info)
 * [Preview](#preview)
 
 ## General Info
@@ -11,7 +11,7 @@ Winning Hand: Poker Tool
 * __Rules__: Player 1 (pink) and Player 2 (blue) get 2 cards each. The pool (yellow) gets 5 cards.
 * Created with expo-cli 4.4.3; Tested on Chrome and on an Android 8.1 device.
 
-## Execution
+## Execution Info
 * To __run this project__, Expo must be installed.
 1. Create a directory that contains all of the project files.
 1. In command prompt, navigate to the project directory.
