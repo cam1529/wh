@@ -8,6 +8,7 @@ Winning Hand: Poker Tool
 
 ## General Info
 * This React/Native application generates the winning hand in a 2-player Texas Holdem style poker game.
+* Player 1 (pink) and Player 2 (blue) get 2 cards each. The pool (yellow) gets 5 cards.
 * Project was created with Expo 4.4.3.
 
 ## Installation Info
